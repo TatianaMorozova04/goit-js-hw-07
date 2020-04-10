@@ -1,0 +1,17 @@
+.gallary {
+  display: flex;
+}
+
+.item {
+  list-style: none;
+}
+
+.image {
+  width: auto;
+  height: 400px;
+  margin: 8px;
+}
+
+.image:hover {
+  box-shadow: 3px 3px 4px 2px #808080;
+}
